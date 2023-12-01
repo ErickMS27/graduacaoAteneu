@@ -1,0 +1,21 @@
+
+w
+java:S1488!"aImmediately return this expression instead of assigning it to the temporary variable "distancia".(ÅÀí‹
+`
+java:S2184"ECast one of the operands of this subtraction operation to a "double".(ŒÀ÷‘ÿÿÿÿÿ
+[
+java:S2184 "ECast one of the operands of this subtraction operation to a "double".(Öõä€
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒõˆÄüÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(šµ°úÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ÕôÉÜıÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(× ˆŠøÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(´¢ºÁûÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(•Õõ
+P
+java:S1854 ":Remove this useless assignment to local variable "coordY".(Öõä€
+U
+java:S1854":Remove this useless assignment to local variable "coordX".(ŒÀ÷‘ÿÿÿÿÿ
+F
+java:S1481"+Remove this unused "coordX" local variable.(ŒÀ÷‘ÿÿÿÿÿ
+A
+java:S1481 "+Remove this unused "coordY" local variable.(Öõä€

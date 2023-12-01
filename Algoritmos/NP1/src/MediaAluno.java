@@ -1,4 +1,4 @@
-package NP1;
+package Algoritmos.NP1.src;
 
 import java.util.Scanner;
 
